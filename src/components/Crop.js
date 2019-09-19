@@ -20,10 +20,10 @@ class Crop extends Component {
       top: y,
       left: x,
 
-
       boxShadow: '0 0 6px #000',
-      background: '#8c8c8c',
       opacity: 0.6,
+      borderStyle: 'solid',
+      borderColor: 'aqua',
     }
   }
 
